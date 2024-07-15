@@ -20,6 +20,7 @@
   }
   .item-mobile{
       margin-left: 1.2rem;
+      
   }
   .hero-content{
       width: 60%;
@@ -29,12 +30,13 @@
   }
   h1{
     font-size: 4rem !important;
+    padding-top: 6rem;
   }
 p{
     padding-right:200px;
+ 
+ }  
     
-    
-}
 
 /* mobile  */
 @media (max-width: 768px){
@@ -54,6 +56,7 @@ p{
 
 h1{
     font-size: 2.2rem !important;
+    padding-top: 0 !important;
 }
 
 p{
